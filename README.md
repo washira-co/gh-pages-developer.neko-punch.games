@@ -4,8 +4,8 @@
 
 ### トップ
 
-<https://developer.washira.co/>
+- <https://developer.neko-punch.games/>
 
 ### app-ads.txt
 
-<https://developer.washira.co/app-ads.txt>
+- <https://developer.neko-punch.games/app-ads.txt>
